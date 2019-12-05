@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Drummmers
 
-This app enables enables the user to search for their favourite track or artist, then the user chooses which track
-to save to a new playlist and finally names and saves the newly created playlist straight to Spotify!
+This app enables the user to search for their favorite track or artist, then the user chooses which track
+to save and finally names and saves the newly created playlist straight to Spotify!
 
 # Try it out! Link: drummmers.surge.sh
 
