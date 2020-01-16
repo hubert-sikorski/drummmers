@@ -33,7 +33,7 @@ text-align: center;
 font-size: .83rem;
 transition: background-color .25s;
 color: #fff;
-font-weight: 500;
+font-weight: bold;
 }
 
 .Playlist-save:hover {

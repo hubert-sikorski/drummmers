@@ -1,6 +1,6 @@
 import {clientId} from './SpotifyAPIkey';
 
-const redirectUri = 'http://drummmers.surge.sh';
+const redirectUri = 'http://drummmers.surge.sh'; //testing: 'localhost:3001';
 let accessToken;
 
 const Spotify = {
@@ -42,7 +42,9 @@ const Spotify = {
                 name: track.name,
                 artist: track.artists[0].name,
                 album: track.album.name,
-                uri: track.uri
+                uri: track.uri,
+                cover: track.album.images[2].url,
+                preview: track.preview_url
             }))
         })
     },
