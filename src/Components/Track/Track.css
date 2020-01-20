@@ -54,9 +54,20 @@
 }
 
 .Track-information p {
-    font-size: .83rem;
+    font-size: .8rem;
     font-weight: 300;
     color: rgba(256, 256, 256, 0.8);
+}
+
+@media only screen  and (max-width: 800px) {
+    .Track-information h3 {
+        margin-bottom: .22rem;
+        font-size: 0.66rem;
+    }
+
+    .Track-information p {
+        font-size: .45rem;
+    }
 }
 
 .Track-preview-container {

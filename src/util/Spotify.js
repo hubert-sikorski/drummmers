@@ -1,6 +1,6 @@
 import {clientId} from './SpotifyAPIkey';
 
-const redirectUri = 'http://drummmers.surge.sh'; //testing: 'localhost:3001';
+const redirectUri = 'http://drummmers.surge.sh'; // testing: 'localhost:3000';
 let accessToken;
 
 const Spotify = {
