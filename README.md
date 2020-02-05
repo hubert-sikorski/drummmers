@@ -9,7 +9,7 @@ new list and do exactly the same thing with other tracks until you are satisfied
 with the new list. The final step is to name the list and save it as a new playlist
 straight to your Spotify account!
 
-## Link to the app: [drummmers.surge.sh](drummmers.surge.sh)
+## Link to the app: [drummmers.surge.sh](http://drummmers.surge.sh)
 
 ![gif](src/Components/App/drummmers.gif)
 
