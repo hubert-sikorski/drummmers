@@ -11,7 +11,7 @@ straight to your Spotify account!
 
 ## Link to the app: [drummmers.surge.sh](http://drummmers.surge.sh)
 
-![gif](src/Components/App/drummmers.gif)
+![gif](src/assets/drummmers.gif)
 
 ## Version history
 
